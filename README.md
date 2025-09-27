@@ -1,6 +1,6 @@
 # Ask My Data
 
-Query your own documents (PDFs, CSVs, TXT) using LLMs with Retrieval-Augmented Generation (RAG).  
+Query your own documents (PDFs, CSVs, TXT) using LLMs with Retrieval-Augmented Generation (RAG).
 Built with FastAPI, LangChain, and FAISS.
 
 ## Features
